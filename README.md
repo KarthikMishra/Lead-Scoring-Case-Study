@@ -2,22 +2,25 @@
 This case study aims to build a logistic regression model to predict the conversion chances of a marketing lead
 
 # Problem Statement
+The challenge at hand pertains to X Education, an esteemed online education provider catering to industry professionals.
 
-This problem statement belongs to an education company named X Education sells online courses to industry professionals.
+Prospective learners often find their way to X Education's website, drawn by the allure of comprehensive online courses. The company strategically promotes its offerings across various digital platforms, including popular search engines like Google, ensuring maximum visibility.
 
-Many professionals who are interested in the courses land on their website and browse for courses. The company markets its courses on several websites and search engines like Google.
+Upon arrival at the website, visitors engage in various activities such as browsing courses, completing registration forms, or consuming informational videos. Those who furnish their contact details, be it email addresses or phone numbers, are identified as leads. Additionally, X Education receives leads through referrals from satisfied clients.
 
-Once these people land on the website, they might browse the courses or fill up a form for the course or watch some videos. When these people fill up a form providing their email address or phone number, they are classified to be a lead. Moreover, the company also gets leads through past referrals. Once these leads are acquired, employees from the sales team start making calls, writing emails, etc. 
+Once these leads are secured, the diligent sales team embarks on a proactive outreach campaign, reaching out through calls, emails, and other channels of communication.
 
-Through this process, some of the leads get converted while most do not. The typical lead conversion rate at X education is around 30%. 
+However, despite these efforts, not all leads culminate in successful conversions. X Education experiences a typical lead conversion rate of approximately 30%.
+
+Efforts are underway to optimize this conversion process, ensuring that a higher percentage of leads transition into enrolled learners, thereby maximizing the impact and reach of X Education's valuable courses.
 
 # Business Goal:
 
-X Education needs to select the most promising leads, i.e. the leads that are most likely to convert into paying customers.
+X Education must identify the most prospective leads, namely those with the highest likelihood of converting into paying customers.
 
-The company needs to build a model wherein you need to assign a lead score to each of the leads such that the customers with a higher lead score have a higher conversion chance and the customers with a lower lead score have a lower conversion chance.
+The company aims to develop a model that assigns a lead score to each lead, prioritizing those with higher scores for their increased likelihood of conversion. Conversely, leads with lower scores are expected to have a diminished likelihood of conversion.
 
-The CEO, has given a ballpark of the target lead conversion rate to be around 80%.
+The CEO has set a target lead conversion rate of approximately 80%, signaling the company's ambition to significantly enhance its conversion rates and optimize its sales efforts.
 
 # Approach & Methodology
 
